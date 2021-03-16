@@ -33,3 +33,4 @@ dependencies:
     - nipy
     - nose
     - tensorflow==1.14.0
+    - RISE
