@@ -13,9 +13,9 @@ In this repository we created a small example that shows you how you can use [RI
 To make everythin a bit more relatable to [AI Campus](), the example notebook will showcase how a [deep neural network]() can be used to predict if participants had their eyes closed or open during a [functional magnetic resonance imaging (fMRI)]() session based on the acquired 4D fMRI images. 
 The files in more detail:
 
-[requierements.txt]() - a text file that indicates all [python]() modules/libraries we need for the example
-[fmri_cnn_example.ipynb]() - the example jupyter notebook in "standard form"
-[fmri_cnn_example_rise.ipynb]() - the example jupyter notebook converted to a slideshow
+- [requierements.txt]() - a text file that indicates all [python]() modules/libraries we need for the example
+- [fmri_cnn_example.ipynb]() - the example jupyter notebook in "standard form"
+- [fmri_cnn_example_rise.ipynb]() - the example jupyter notebook converted to a slideshow
 
 ### I have a question/How can I get help?
 
