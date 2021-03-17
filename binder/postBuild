@@ -1,3 +1,7 @@
 jupyter contrib nbextension install --user
 jupyter-nbextension install rise --py --sys-prefix
 jupyter nbextension enable splitcell/splitcell
+# tensorboard launches at startup
+mv tensorboardserverextension.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
+# enable tensorboard extension
+jupyter serverextension enable --sys-prefix tensorboardserverextension
