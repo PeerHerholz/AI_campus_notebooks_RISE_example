@@ -1,4 +1,4 @@
 jupyter contrib nbextension install --user
 jupyter-nbextension install rise --py --sys-prefix
 jupyter nbextension enable splitcell/splitcell
-
+jupyter serverextension enable --sys-prefix jupyter_server_proxy
