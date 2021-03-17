@@ -33,4 +33,6 @@ dependencies:
     - nipy
     - nose
     - tensorflow
+    - tensorboard
+    - jupyter-tensorboard
     - RISE
