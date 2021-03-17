@@ -1,5 +1,7 @@
 # How to use RISE -  a short example targetting AI Campus content
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeerHerholz/AI_campus_notebooks_RISE_example/HEAD)
+
 ### What's happening?
 
 Ahoi hoi everyone,
@@ -9,6 +11,8 @@ are you working with [Jupyter Notebooks]() within your lectures to provide stude
 ### What's in here?
 
 In this repository we created a small example that shows you how you can use [RISE]() to turn a [Jupyter Notebook]() into a slidedeck and set it up in a way that you can run/explore it via the awesome [binder service](), i.e. a free service that turns your repository into a [Docker image]() which is then hosted on a [JupyterHub]() that allows to work with your [Jupyter Notebooks] or slides interactively. To get to this mysterious interactive instance, you just have to click this button: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeerHerholz/AI_campus_notebooks_RISE_example/HEAD)
 
 To make everythin a bit more relatable to [AI Campus](), the example notebook will showcase how a [deep neural network]() can be used to predict if participants had their eyes closed or open during a [functional magnetic resonance imaging (fMRI)]() session based on the acquired 4D fMRI images. 
 The files in more detail:
